@@ -12,4 +12,5 @@ my note about update SAMD51 UF2 bootloader<br>
 
 
 #Reference:<br>
+[Adafruit UF2 bootloader release 3.13](https://github.com/adafruit/uf2-samdx1/releases/tag/v3.13.0)
 [Flash adafruit uf2 bootloader to grandcentral m4 express board](https://gist.github.com/C47D/b54ea63f30b1e61852514ad6e1177a72)
